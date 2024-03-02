@@ -1,4 +1,4 @@
 # Sample
 Sample-learning
 
-Hello All
+Hello Everyone
